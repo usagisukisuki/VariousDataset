@@ -1,5 +1,5 @@
 # VariousDataset
-検証用の様々なデータセットとdataloaderを共有します。DatasetはSSDから落としてください。このGithubにはdataloader含むサンプルコードを上げます。(随時更新
+検証用の様々なデータセットとdataloaderを共有します。DatasetはSSDから落としてください。このGithubにはdataloader含むサンプルコードを上げます(随時更新)。
 ## Classification
 
 <ul>
