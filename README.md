@@ -20,44 +20,22 @@
   <li>CityScapes</li>
   <li>CamVid</li>
   <li>PascalVOC2012</li>
+  <li>Massachusetts Roads Dataset (Binary)</li>
+  <li>Massachusetts Buildings Dataset (Binary)</li>
   <li>Medical images</li>
-  <ul>
-      <li>Binary segmentation</li>
-          <ul>
-              <li>Binary segmentation</li>
-              <li>CamVid</li>
-              <li>PascalVOC2012</li>
-              <li>Medical images</li>
-              <li>Biological images</li>
-          </ul>
-      <li>Multi-class segmentation</li>
-          <ul>
-              <li>Binary segmentation</li>
-              <li>CamVid</li>
-              <li>PascalVOC2012</li>
-              <li>Medical images</li>
-              <li>Biological images</li>
-          </ul>
-  </ul>
+      <ul>
+          <li>CVC-ClinicDB</li>
+          <li>Kvasir-SEG</li>
+          <li>DRIVE</li>
+          <li>ACDC dataset</li>
+          <li>Multi-organ dataset</li>
+          <li>COVID-19</li>
+      </ul>
   <li>Biological images</li>
     <ul>
-        <li>Binary segmentation</li>
-          <ul>
-              <li>Binary segmentation</li>
-              <li>CamVid</li>
-              <li>PascalVOC2012</li>
-              <li>Medical images</li>
-              <li>Biological images</li>
-          </ul>
-      <li>Multi-class segmentation</li>
-          <ul>
-              <li>Binary segmentation</li>
-              <li>CamVid</li>
-              <li>PascalVOC2012</li>
-              <li>Medical images</li>
-              <li>Biological images</li>
-          </ul>
-        </ul>
+      <li>ISBI2012 dataset</li>
+      <li>RPE cell image dataset</li>
+    </ul>
 </ul>
 
 <font size="20">Metric Learning</font>
