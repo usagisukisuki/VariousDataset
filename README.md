@@ -2,6 +2,7 @@
 検証用の様々なデータセットとdataloaderを集めます。DatasetはSSDから落としてください。Githubにはdataloader含むサンプルコードを上げます。
 <p>
 <font size="20">Classification</font>
+  </p>
 <ul>
   <li>ImageNet (1,000)</li>
   <li>ImageNet-1k (1,000)</li>
@@ -48,4 +49,4 @@
 <ul>
   <li>MVTec_AD (Binary)</li>
 </ul>
-</p>
+
