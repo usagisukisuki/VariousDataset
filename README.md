@@ -1,4 +1,4 @@
-# VariousDataset
+# Various Dataset for Computer Vision
 検証用の様々なデータセットとdataloaderを共有します。DatasetはSSDから落としてください。このGithubにはdataloader含むサンプルコードを上げます(随時更新)。
 ## Classification
 
