@@ -22,7 +22,7 @@
   <li>PascalVOC2012 (1,000)</li>
   <li>Massachusetts Roads Dataset (Binary)</li>
   <li>Massachusetts Buildings Dataset (Binary)</li>
-  <li>Medical images</li>
+  <li>Medical image datasets</li>
       <ul>
           <li>CVC-ClinicDB (Binary)</li>
           <li>Kvasir-SEG (Binary)</li>
@@ -31,7 +31,7 @@
           <li>Multi-organ dataset (9)</li>
           <li>COVID-19 (4)</li>
       </ul>
-  <li>Biological images</li>
+  <li>Biological image datasets</li>
     <ul>
       <li>ISBI2012 dataset (Binary)</li>
       <li>RPE cell image dataset (Binary)</li>
