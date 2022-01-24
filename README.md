@@ -2,8 +2,8 @@
 検証用の様々なデータセットとdataloaderを集めます。DatasetはSSDから落としてください。Githubにはdataloader含むサンプルコードを上げます。
 <p>
 <ul>
-  <li　style="font-size:10px">Classification</li>
-  <li　style="font-size:10px">Semantic Segmentation</li>
-  <li　style="font-size:10px">Metric Learning</li>
+  <li><font size="5">Classification</font></li>
+  <li><font size="5">Semantic Segmentation</font></li>
+  <li><font size="5">Metric Learning</font></li>
 </ul>
 </p>
