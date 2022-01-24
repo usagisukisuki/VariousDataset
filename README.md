@@ -40,6 +40,7 @@
           </ul>
   </ul>
   <li>Biological images</li>
+    <ul>
         <li>Binary segmentation</li>
           <ul>
               <li>Binary segmentation</li>
@@ -56,6 +57,7 @@
               <li>Medical images</li>
               <li>Biological images</li>
           </ul>
+        </ul>
 </ul>
 
 <font size="20">Metric Learning</font>
