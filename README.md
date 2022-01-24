@@ -16,8 +16,8 @@
 </ul>
 </ul>
 
-<font size="20">Semantic Segmentation</font>
-<ul>
+## Semantic Segmentation
+
   <li>CityScapes (1,000)</li>
   <li>CamVid (1,000)</li>
   <li>PascalVOC2012 (1,000)</li>
@@ -39,13 +39,13 @@
     </ul>
 </ul>
 
-<font size="20">Metric Learning</font>
+## Metric Learning
 <ul>
   <li>CARS196 (196)</li>
   <li>CUB_200_2011 (200)</li>
 </ul>
 
-<font size="20">Anomaly Detection</font>
+## Anomaly Detection
 <ul>
   <li>MVTec_AD (Binary)</li>
 </ul>
