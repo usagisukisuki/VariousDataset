@@ -35,6 +35,7 @@
       <ul>
           <li>ISBI2012 (Binary)</li>
           <li>RPE cell image (Binary)</li>
+          <li>2018 Data Science Bowl in Kaggle (Binary)</li>
       </ul>
   <li>Plant image</li>
       <ul>
