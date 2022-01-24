@@ -1,6 +1,6 @@
 # Various Dataset for Computer Vision
 検証用の様々なデータセットとdataloaderを共有します。DatasetはSSDから落としてください。このGithubにはdataloader含むサンプルコードを上げます(随時更新)。
-## Classification
+## Image Classification
 
 <ul>
   <li>ImageNet (1,000)</li>
@@ -9,7 +9,7 @@
   <li>Food101 (101)</li>
 </ul>
 
-## Long-tailed classification
+## Long-tailed Image Classification
 
 <ul>
    <li>iNaturalist2017 (579,184)</li>
