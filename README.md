@@ -18,10 +18,44 @@
 <font size="20">Semantic Segmentation</font>
 <ul>
   <li>CityScapes</li>
-  <li>CAmVid</li>
+  <li>CamVid</li>
   <li>PascalVOC2012</li>
   <li>Medical images</li>
+  <ul>
+      <li>Binary segmentation</li>
+          <ul>
+              <li>Binary segmentation</li>
+              <li>CamVid</li>
+              <li>PascalVOC2012</li>
+              <li>Medical images</li>
+              <li>Biological images</li>
+          </ul>
+      <li>Multi-class segmentation</li>
+          <ul>
+              <li>Binary segmentation</li>
+              <li>CamVid</li>
+              <li>PascalVOC2012</li>
+              <li>Medical images</li>
+              <li>Biological images</li>
+          </ul>
+  </ul>
   <li>Biological images</li>
+        <li>Binary segmentation</li>
+          <ul>
+              <li>Binary segmentation</li>
+              <li>CamVid</li>
+              <li>PascalVOC2012</li>
+              <li>Medical images</li>
+              <li>Biological images</li>
+          </ul>
+      <li>Multi-class segmentation</li>
+          <ul>
+              <li>Binary segmentation</li>
+              <li>CamVid</li>
+              <li>PascalVOC2012</li>
+              <li>Medical images</li>
+              <li>Biological images</li>
+          </ul>
 </ul>
 
 <font size="20">Metric Learning</font>
