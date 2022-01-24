@@ -58,3 +58,7 @@
   <li>MVTec_AD (Binary)</li>
 </ul>
 
+## Image Translation
+<ul>
+  <li>Ghibri</li>
+</ul>
