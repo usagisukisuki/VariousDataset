@@ -1,9 +1,8 @@
 # VariousDataset
 検証用の様々なデータセットとdataloaderを集めます。DatasetはSSDから落としてください。Githubにはdataloader含むサンプルコードを上げます。
-<p>
-  # VariousDataset
-<font size="20">Classification</font>
-  </p>
+
+# Classification
+
 <ul>
   <li>ImageNet (1,000)</li>
   <li>ImageNet-1k (1,000)</li>
