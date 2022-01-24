@@ -9,14 +9,14 @@
   <li>Food101 (101)</li>
   <li>Long-tailed classification</li>
   <ul>
-  <li>iNaturalist2017 (579,184)</li>
-  <li>iNaturalist2018 (437,512)</li>
-  <li>ImageNet-LT (1,000)</li>
-</ul>
+      <li>iNaturalist2017 (579,184)</li>
+      <li>iNaturalist2018 (437,512)</li>
+      <li>ImageNet-LT (1,000)</li>
+  </ul>
 </ul>
 
 ## Semantic Segmentation
-
+<ul>
   <li>CityScapes (1,000)</li>
   <li>CamVid (1,000)</li>
   <li>PascalVOC2012 (1,000)</li>
@@ -32,10 +32,10 @@
           <li>COVID-19 (4)</li>
       </ul>
   <li>Biological image</li>
-    <ul>
-      <li>ISBI2012 (Binary)</li>
-      <li>RPE cell image (Binary)</li>
-    </ul>
+      <ul>
+          <li>ISBI2012 (Binary)</li>
+          <li>RPE cell image (Binary)</li>
+      </ul>
 </ul>
 
 ## Metric Learning
