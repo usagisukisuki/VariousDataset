@@ -7,15 +7,15 @@
   <li>Semantic Segmentation</li>
   <li>Metric Learning</li>
 </ul>
-<font size="20">Semantic Segmentation</font>
 
+<font size="20">Semantic Segmentation</font>
 <ul>
   <li>Classification</li>
   <li>Semantic Segmentation</li>
   <li>Metric Learning</li>
 </ul>
-<font size="20">Metric Learning</font>
 
+<font size="200">Metric Learning</font>
 <ul>
   <li>Classification</li>
   <li>Semantic Segmentation</li>
