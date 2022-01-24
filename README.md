@@ -7,14 +7,16 @@
   <li>ImageNet-1k (1,000)</li>
   <li>Tiny ImageNet (1,000)</li>
   <li>Food101 (101)</li>
-  <li>Long-tailed classification</li>
-  <ul>
-      <li>iNaturalist2017 (579,184)</li>
-      <li>iNaturalist2018 (437,512)</li>
-      <li>ImageNet-LT (1,000)</li>
-  </ul>
 </ul>
 
+## Long-tailed classification
+
+<ul>
+   <li>iNaturalist2017 (579,184)</li>
+   <li>iNaturalist2018 (437,512)</li>
+   <li>ImageNet-LT (1,000)</li>
+</ul>
+  
 ## Semantic Segmentation
 <ul>
   <li>CityScapes (1,000)</li>
